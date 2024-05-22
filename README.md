@@ -1,2 +1,2 @@
 # nude
-Оцените вёрстку [nude]https://iwadi.github.io/nude/
+Оцените вёрстку [nude](https://iwadi.github.io/nude/)
